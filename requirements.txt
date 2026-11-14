@@ -1,0 +1,2 @@
+# Runtime dependency. Allow compatible security fixes to be installed.
+Flask>=3.1.2,<4
